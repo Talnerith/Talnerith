@@ -56,3 +56,4 @@ helpful to the person on the other end of the screen.
 </p>
 
 <p align="center"><sub>📫 Reach me at <a href="mailto:bayanihintay@gmail.com">bayanihintay@gmail.com</a> · <a href="https://www.linkedin.com/in/bayani-hintay/">LinkedIn</a></sub></p>
+
